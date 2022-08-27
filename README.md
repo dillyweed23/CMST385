@@ -1,2 +1,0 @@
-# CMST385
-Class
